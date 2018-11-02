@@ -1,0 +1,102 @@
+body{
+    margin: 100px;
+}
+
+.to{
+    display: inline-block;
+    vertical-align: right;
+}
+.top{
+    
+    float: right;
+}
+#div1{
+    width: 100%;
+}
+#title {
+
+
+}
+#logo {
+    
+}
+#one{
+    margin: 1px;
+    
+}
+#two {
+  margin: 1px;
+}
+
+#three{
+    margin: 1px;
+}
+#four{
+    margin: 1px;
+}
+#five{
+    margin: 1px;
+}
+#six{
+    margin: 1px;
+    margin-right: 6;
+}
+#seven{
+    margin: 1px;
+}
+#eight{
+    margin: 1px;
+}
+#div1{
+    background: gray;
+    padding: 5px;
+    width: 1305px;
+    margin-top: 25px;
+}
+#del
+{
+    font-size: 35;
+}
+#subtitle{
+    font-size: 15;
+}
+.topmid{
+    display: inline-block;
+    vertical-align: right;
+}
+.right{
+    float: right;
+}
+#bigpic{
+    width: 1305px;
+    height: autopx;
+}
+.txt{
+    font-size: 20;
+}
+#picdiv{
+    background-image: url(list-bg.png);
+   
+    
+}
+.list{
+    display: inline-block;
+    vertical-align: right;
+}
+#right{
+    margin-left: 500px;
+}
+#left{
+    margin-left: 50px;
+}
+#div2{
+    background: gray;
+    padding: 5px;
+    width: 1305px;
+    margin-top: 25px;
+    }
+#printb{
+    position: absolute;
+    right: 125px;
+    top: 230px;
+}
